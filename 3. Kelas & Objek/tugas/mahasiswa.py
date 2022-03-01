@@ -13,7 +13,7 @@ m4 = Mahasiswa('Bella Triana', '5210411175', 'Informatika', 2021)
 m5 = Mahasiswa('Aspin William Roy', '5200411287', 'Informatika', 2020)
 
 
-data_mahasiswa = [m1, m2, m3]
+data_mahasiswa = [m1, m2, m3, m4, m5]
 
 print('Daftar Mahasiswa')
 for i in data_mahasiswa:
